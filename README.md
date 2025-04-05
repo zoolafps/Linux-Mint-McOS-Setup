@@ -2,14 +2,14 @@
 
 ## Guide to use
 
->If are you an experinted user of **Linux Mint** or Linux in general, you will know that is a package traditional of themes for this distribution, but if you an a **new user of Linux Mint**, here i tell how apply the need configurations for you distribution look how a **Mac OS interface**.
+If are you an experinted user of **Linux Mint** or Linux in general, you will know that is a package traditional of themes for this distribution, but if you an a **new user of Linux Mint**, here i tell how apply the need configurations for you distribution look how a **Mac OS interface**.
 
-How can you see, this repository contain five files .zip  named of:
-- [McOS-icons](https://github.com/zoolafps/Linux-Mint-McOS-Setup/McOS-icons.zip)
-- [McOS-icons-dark](https://github.com/zoolafps/Linux-Mint-McOS-Setup/McOS-icons-dark.zip)
-- [McOS-icons-light](https://github.com/zoolafps/Linux-Mint-McOS-Setup/McOS-light.zip)
-- [McOS-buttons-mask](https://github.com/zoolafps/Linux-Mint-McOS-Setup/McOS-buttons-mask.zip)
-- [McOS-global-theme](https://github.com/zoolafps/Linux-Mint-McOS-Setup/McOS-global-theme.zip)
+How can you see, this repository contain five files .zip  with the name of:
+- [McOS-icons](https://github.com/zoolafps/Linux-Mint-McOS-Setup/bloob/McOS-icons.zip)
+- [McOS-icons-dark](https://github.com/zoolafps/Linux-Mint-McOS-Setup/bloob/McOS-icons-dark.zip)
+- [McOS-icons-light](https://github.com/zoolafps/Linux-Mint-McOS-Setup/bloob/McOS-light.zip)
+- [McOS-buttons-mask](https://github.com/zoolafps/Linux-Mint-McOS-Setup/bloob/McOS-buttons-mask.zip)
+- [McOS-global-theme](https://github.com/zoolafps/Linux-Mint-McOS-Setup/bloob/McOS-global-theme.zip)
 
 ## 1.Download
 
